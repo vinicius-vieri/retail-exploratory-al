@@ -57,11 +57,3 @@ Link de acesso: https://community.tableau.com/s/question/0D54T00000CWeX8SAL/samp
 ## Pergunta de Negócio 8:
 
 *Considere Que a Empresa Decida Conceder o Desconto de 15% do Item Anterior. Qual Seria a Média do Valor de Venda Antes e Depois do Desconto?*
-
-## Pergunta de Negócio 9:
-
-*Qual o Média de Vendas Por Segmento, Por Ano e Por Mês? Demonstre o resultado através de gráfico de linha.*
-
-## Pergunta de Negócio 10:
-
-*Qual o Total de Vendas Por Categoria e SubCategoria, Considerando Somente as Top 12 SubCategorias? Demonstre tudo através de um único gráfico.*
